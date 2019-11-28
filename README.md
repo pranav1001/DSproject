@@ -1,2 +1,2 @@
 # DSproject
-data compression using huffman coding.
+data compression software using huffman coding.
